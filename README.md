@@ -4,7 +4,7 @@
 
 2. Install dependencies
 
-        npm run install
+        npm install
 
 3. Start dev server
 
@@ -14,6 +14,6 @@
 
         npm i json-server -g
 
-5. Run json-server inside cloned repo
+5. Run json-server inside cloned repo directory
 
         json-server --watch data/db.json --port 3500
